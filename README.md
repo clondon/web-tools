@@ -2,7 +2,7 @@
 A list of my favourite web tools. 
 
 __Crontab Guru__
-e.g - https://crontab.guru/#0_2_*_*_*
+e.g - https://crontab.guru
 
 
 __Learn Svelte__
